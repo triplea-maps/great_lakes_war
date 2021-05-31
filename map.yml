@@ -1,0 +1,3 @@
+map_name: great_lakes_war
+games:
+- {game_name: Great Lakes War, file_name: Great_Lakes_War_v1.4.xml}
